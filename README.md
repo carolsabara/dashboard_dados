@@ -49,14 +49,14 @@ Este projeto foi desenvolvido durante a **Imersão de Dados da Alura** e consist
 
 ---
 
-5. Principais insights da análise de salários na área de dados:
+5. ## Principais insights da análise de salários na área de dados:
 
--💼 Senioridade importa: Executivos e sênior ganham significativamente mais que pleno e júnior.
+- 💼 Senioridade importa: Executivos e sênior ganham significativamente mais que pleno e júnior.
 
--📊 Distribuição desigual: A maioria recebe até 150k USD/ano, mas existem outliers com salários muito altos.
+- 📊 Distribuição desigual: A maioria recebe até 150k USD/ano, mas existem outliers com salários muito altos.
 
--🏢 Tipo de contrato e empresa: Contratos integrais e empresas médias predominam, enquanto grandes empresas oferecem salários maiores.
+- 🏢 Tipo de contrato e empresa: Contratos integrais e empresas médias predominam, enquanto grandes empresas oferecem salários maiores.
 
--🌍 Impacto da localização: Profissionais em países desenvolvidos, como EUA, têm salários médios mais altos.
+- 🌍 Impacto da localização: Profissionais em países desenvolvidos, como EUA, têm salários médios mais altos.
 
--🖥️ Modalidade de trabalho: A maior parte trabalha presencialmente, mas o remoto e híbrido mostram tendências de flexibilidade crescente.
+- 🖥️ Modalidade de trabalho: A maior parte trabalha presencialmente, mas o remoto e híbrido mostram tendências de flexibilidade crescente.
