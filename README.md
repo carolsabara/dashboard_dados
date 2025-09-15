@@ -49,7 +49,7 @@ Este projeto foi desenvolvido durante a **Imersão de Dados da Alura** e consist
 
 ---
 
-5. ## Principais insights da análise de salários na área de dados:
+## Principais insights da análise de salários na área de dados:
 
 - 💼 Senioridade importa: Executivos e sênior ganham significativamente mais que pleno e júnior.
 
